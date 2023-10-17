@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning C, Python, SQL, HTML.<br>🔭 Experiencing Knowledge of OSS and GitHub.<br>💬 importing sleep from time.<br>⚡ Fun fact - the first computer bug was actually a bug. <br>
+🌱 I'm currently into C, Python, SQL, HTML.<br>🔭 Experiencing Knowledge of OSS and GitHub.<br>💬 importing sleep from time.<br>⚡ Fun fact - the first computer bug was actually a bug. <br>
 
 
 # 💻 Tech Stack:
