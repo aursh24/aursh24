@@ -9,7 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aursh24&theme=tokyonight&hide_border=true)<br/>
 
 ## 🏆 Badge Collection
-[![An image of @aursh24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aursh24)](https://holopin.io/@aursh24)
+![An image of @aursh24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aursh24)](https://holopin.io/@aursh24)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
