@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently into C, Python, SQL, HTML.<br>🔭 Experiencing Knowledge of OSS and GitHub.<br>💬 importing sleep from time.<br>⚡ Fun fact **can fluently speak "awkward silence"**.
+🌱 I'm currently into C, Python, SQL, HTML.<br>🔭 Experiencing Knowledge of OSS and GitHub.<br>💬 importing sleep from time.<br>⚡ Fun fact **I can fluently speak "awkward silence"**.
 
 
 # 💻 Tech Stack:
