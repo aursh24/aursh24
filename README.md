@@ -1,4 +1,4 @@
-# ✨ Hey It's Aursh Sinha
+# ✨ Hey, It's Aursh Sinha
 🌱 I'm currently into C, Python, SQL, HTML.<br>🔭 Experiencing Knowledge of OSS and GitHub.<br>💬 importing sleep from time.<br>⚡ Fun fact **I can fluently speak "awkward silence"**.
 
 
