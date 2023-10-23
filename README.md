@@ -1,4 +1,4 @@
-![An image of @aursh24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aursh24)](https://holopin.io/@aursh24)
+![An image of @aursh24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aursh24)
 
 # ✨ Hey, It's Aursh Sinha
 🌱 I'm currently into C, Python, SQL, HTML.<br>🔭 Experiencing Knowledge of OSS and GitHub.<br>💬 importing sleep from time.<br>⚡ Fun fact **I can fluently speak "awkward silence"**.
