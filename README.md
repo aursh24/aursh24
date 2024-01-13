@@ -28,7 +28,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aursh24&" alt="aursh24" /></p>
 <hr>
 
-<h2>🏆 GitHub Trophies</h2>
+<h2>🏆 GitHub Trophies:</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aursh24" alt="aursh24" /></a> </p>
 
 [![](https://visitcount.itsvg.in/api?id=aursh24&icon=1&color=12)](https://visitcount.itsvg.in)
