@@ -4,7 +4,7 @@
 <h3 align="center">Crafting TechStack</h3>
 <hr>
 
-![Centered GIF](https://i.gifer.com/3AyY.gif)
+![Centered GIF](https://i.gifer.com/3AyY.mp4)
 
 <hr>
 
