@@ -4,6 +4,11 @@
 <h3 align="center">Crafting TechStack</h3>
 <hr>
 
+<p align="center">
+  <img src="your-gif-file.gif" alt="Centered GIF">
+</p>
+<hr>
+
 <h2>💫 About Me:</h2>
 
 - 🌱 I’m currently learning **Python, MySQL, C, HTML, Dart, Flutter, Figma**
