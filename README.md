@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aursh Sinha</h1>
 <h3 align="center">Crafting TechStack</h3>
 <hr>
-
-![Centered GIF](https://i.gifer.com/3AyY.mp4)
-
+![121930064](https://github.com/aursh24/aursh24/assets/121930064/da085df8-a778-469d-acfc-b29889f0e626)
 <hr>
 
 <h2>💫 About Me:</h2>
