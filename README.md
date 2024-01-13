@@ -25,7 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aursh24&show_icons=true&locale=en" alt="aursh24" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=aursh24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aursh24&theme=tokyonight&hide_border=false)<br/>
 <hr>
 
