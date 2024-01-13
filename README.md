@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aursh Sinha</h1>
 <h3 align="center">Crafting TechStack</h3>
+<hr>
 
 <h2>💫 About Me:</h2>
 
@@ -26,6 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aursh24&show_icons=true&locale=en" alt="aursh24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aursh24&" alt="aursh24" /></p>
+<hr>
 
 <h2>🏆 GitHub Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aursh24" alt="aursh24" /></a> </p>
