@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Aursh Sinha</h1>
 <h3 align="center">Crafting TechStack</h3>
-<hr>
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:57.22%;position:relative;"><iframe width="360" height="206" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8c90iu"></iframe></div><p><a href="https://imgflip.com/gif/8c90iu">via Imgflip</a></p></div>
-<hr>
 
 <h2>💫 About Me:</h2>
 
