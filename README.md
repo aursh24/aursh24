@@ -31,7 +31,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aursh24&" alt="aursh24" /></p>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   [![](https://visitcount.itsvg.in/api?id=aursh24&icon=1&color=12)](https://visitcount.itsvg.in)
 </div>
+
 
