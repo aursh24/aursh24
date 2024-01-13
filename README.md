@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, MySQL, C, HTML, Dart, Flutter, Figma**
 
-- 🤔 I’m looking to help with anything I can <3
+- 😁 I’m looking to help with anything I can <3
 
 - 📫 How to reach me **aursh.headstrong24@gmail.com**
 
