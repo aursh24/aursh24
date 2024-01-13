@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aursh24" alt="aursh24" /></a> </p>
 
+<h2>💫 About Me:</h2>
+
 - 🌱 I’m currently learning **Python, MySQL, C, HTML, Dart, Flutter, Figma**
 
 - 🤔 I’m looking to help with anything I can <3
