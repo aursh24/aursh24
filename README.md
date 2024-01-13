@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aursh Sinha</h1>
-<h3 align="center">Exploring Tech Stack</h3>
+<h3 align="center">Developing Tech Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aursh24&label=Profile%20views&color=0e75b6&style=flat" alt="aursh24" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, MySQL, C, HTML, Dart, Flutter, Figma**
 
-- 💬 Ask me about **Source Codes.**
+- 🤔 I’m looking to help with anything I can <3
 
 - 📫 How to reach me **aursh.headstrong24@gmail.com**
 
