@@ -1,7 +1,7 @@
 [![An image of @aursh24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aursh24)](https://holopin.io/@aursh24)
 
 <h1 align="center">Hi 👋, I'm Aursh Sinha</h1>
-<h3 align="center">Developing Tech Stack</h3>
+<h3 align="center">Crafting TechStack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aursh24&label=Profile%20views&color=0e75b6&style=flat" alt="aursh24" /> </p>
 
