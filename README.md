@@ -4,9 +4,8 @@
 <h3 align="center">Crafting TechStack</h3>
 <hr>
 
-<p align="center">
-  <img src="your-gif-file.gif" alt="Centered GIF">
-</p>
+![Centered GIF](https://i.gifer.com/3AyY.gif)
+
 <hr>
 
 <h2>💫 About Me:</h2>
