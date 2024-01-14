@@ -35,7 +35,7 @@ align = "center" src=https://media3.giphy.com/media/22kxQ12cxyEww/giphy.gif?cid=
 <img
 align="center" src=https://media4.giphy.com/media/jkSvCVEXWlOla/giphy.gif?cid=ecf05e47xtx4pnkneu4x394edd4mzfwhq570jldehyqez7m7&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="180"/><br>
   <h4>My dog knows algos better than me.</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aursh24&label=Profile%20views&color=0e75b6&style=flat" alt="aursh24" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aursh24&label=Profile%20views&color=0e75b6&style=flat" alt="aursh24" /> </p>
 </p>
 
 
