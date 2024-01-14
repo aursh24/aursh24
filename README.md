@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aursh Sinha</h1>
 <img
-allign = "center" src=https://media0.giphy.com/media/u1KYxX4qobbL9UMVxL/giphy.gif?cid=ecf05e475fhnoxn4wrfwj6k1j7u5fhglzxw1ylxcpmrzhwdt&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
+align = "center" src=https://media0.giphy.com/media/u1KYxX4qobbL9UMVxL/giphy.gif?cid=ecf05e475fhnoxn4wrfwj6k1j7u5fhglzxw1ylxcpmrzhwdt&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
 <h3 align="center">Crafting TechStack</h3>
 
 <h2>💫 About Me:</h2>
