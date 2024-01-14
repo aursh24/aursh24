@@ -1,8 +1,10 @@
 [![An image of @aursh24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aursh24)](https://holopin.io/@aursh24)
 
 <h1 align="center">Hi 👋, I'm Aursh Sinha</h1>
+<p align="center">
 <img
 align = "center" src=https://media0.giphy.com/media/u1KYxX4qobbL9UMVxL/giphy.gif?cid=ecf05e475fhnoxn4wrfwj6k1j7u5fhglzxw1ylxcpmrzhwdt&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
+</p>
 <h3 align="center">Crafting TechStack</h3>
 
 <h2>💫 About Me:</h2>
