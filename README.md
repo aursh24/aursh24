@@ -5,7 +5,7 @@
 <img
 align = "center" src=https://media3.giphy.com/media/22kxQ12cxyEww/giphy.gif?cid=ecf05e477auu9j1t2hrugpzi3ia8cohp1zegwajsbetq2vvy&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="180" height="180"/>
 </p>
-<h3 align="center">Just A Friendly Neighborhood Budding Fullstack Dev</h3>
+<h3 align="center">Just A Friendly Neighborhood Budding Fullstack Dev.</h3>
 
 <h2>💫 About Me:</h2>
 
