@@ -34,6 +34,12 @@ align = "center" src=https://media3.giphy.com/media/22kxQ12cxyEww/giphy.gif?cid=
 
 <h2>🏆 GitHub Trophies:</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aursh24" alt="aursh24" /></a> </p>
+<hr>
+<p>
+<img
+align="center" src=https://media4.giphy.com/media/jkSvCVEXWlOla/giphy.gif?cid=ecf05e47xtx4pnkneu4x394edd4mzfwhq570jldehyqez7m7&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="150"/><br>
+  My Dog Does Flutter Better Tha Me
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=aursh24&icon=1&color=12)](https://visitcount.itsvg.in)
 
