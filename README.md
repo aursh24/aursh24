@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aursh Sinha</h1>
 <p align="center">
 <img
-align = "center" src=https://media0.giphy.com/media/u1KYxX4qobbL9UMVxL/giphy.gif?cid=ecf05e475fhnoxn4wrfwj6k1j7u5fhglzxw1ylxcpmrzhwdt&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
+align = "center" src=https://media3.giphy.com/media/22kxQ12cxyEww/giphy.gif?cid=ecf05e477auu9j1t2hrugpzi3ia8cohp1zegwajsbetq2vvy&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/>
 </p>
 <h3 align="center">Crafting TechStack</h3>
 
