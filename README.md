@@ -33,7 +33,7 @@ align = "center" src=https://media3.giphy.com/media/22kxQ12cxyEww/giphy.gif?cid=
 <hr>
 
 <h2>🏆 GitHub Trophies:</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aursh24" alt="aursh24" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" /></a> </p>
 <hr>
 <h2>🐶 Post Script :) </h2>
 <img
