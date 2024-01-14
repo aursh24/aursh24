@@ -35,7 +35,7 @@ align = "center" src=https://media3.giphy.com/media/22kxQ12cxyEww/giphy.gif?cid=
 <h2>🏆 GitHub Trophies:</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aursh24" alt="aursh24" /></a> </p>
 <hr>
-<h2>Fun Fact :) </h2>
+<h2>🐶 Fun Fact :) </h2>
 <p>
 <img
 align="center" src=https://media4.giphy.com/media/jkSvCVEXWlOla/giphy.gif?cid=ecf05e47xtx4pnkneu4x394edd4mzfwhq570jldehyqez7m7&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="180"/><br>
