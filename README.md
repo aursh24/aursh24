@@ -31,9 +31,6 @@ align = "center" src=https://media3.giphy.com/media/22kxQ12cxyEww/giphy.gif?cid=
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aursh24&theme=tokyonight&hide_border=false)<br/>
 <hr>
-
-<h2>🏆 GitHub Trophies:</h2>
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" /></a> </p>
 <hr>
 <h2>🐶 Post Script :) </h2>
 <img
