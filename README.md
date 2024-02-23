@@ -8,7 +8,7 @@ align = "center" src=https://media3.giphy.com/media/22kxQ12cxyEww/giphy.gif?cid=
 
 <h2>💫 About Me:</h2>
 
-- 🌱 I’m currently learning **Python, MySQL, C, HTML, Dart, Flutter, Figma**
+- 🌱 I’m currently into **Python, MySQL, C, HTML, Dart, Flutter, Figma**
 
 - 😁 I’m looking to help with anything I can <3
 
