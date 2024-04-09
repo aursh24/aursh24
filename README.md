@@ -8,7 +8,7 @@ align = "center" src=https://media3.giphy.com/media/22kxQ12cxyEww/giphy.gif?cid=
 
 <h2>💫 About Me:</h2>
 
-- 🌱 I’m currently into **Flutter & Finding a Domain for myself.**
+- 🌱 I’m currently into **Flutter.**
 
 - 😁 I’m looking to help with anything I can <3
 
