@@ -1,11 +1,11 @@
+<h3> Hacktoberfest'23 </h3>
+[![An image of @aursh24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aursh24)](https://holopin.io/@aursh24)
+
 <h1 align="center">Hi 👋, I'm Aursh Sinha</h1>
 <p align="center">
 <img
 align = "center" src=https://media3.giphy.com/media/22kxQ12cxyEww/giphy.gif?cid=ecf05e477auu9j1t2hrugpzi3ia8cohp1zegwajsbetq2vvy&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="180" height="180"/>
 </p>
-
-## Hacktoberfest'23
-[![An image of @aursh24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aursh24)](https://holopin.io/@aursh24)
 
 ## GSSoC'24 Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
