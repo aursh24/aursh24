@@ -1,4 +1,4 @@
-## Hacktoberfest'23
+## Hacktoberfest'23 🐈
 [![An image of @aursh24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aursh24)](https://holopin.io/@aursh24)
 
 <h1 align="center">Hi 👋, I'm Aursh Sinha</h1>
