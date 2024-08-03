@@ -1,15 +1,17 @@
-[![An image of @aursh24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aursh24)](https://holopin.io/@aursh24)
-## GSSoC'24 Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Aursh Sinha</h1>
 <p align="center">
 <img
 align = "center" src=https://media3.giphy.com/media/22kxQ12cxyEww/giphy.gif?cid=ecf05e477auu9j1t2hrugpzi3ia8cohp1zegwajsbetq2vvy&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="180" height="180"/>
 </p>
+
+## Hacktoberfest'23
+[![An image of @aursh24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aursh24)](https://holopin.io/@aursh24)
+
+## GSSoC'24 Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+</div>
 
 <h2>💫 About Me:</h2>
 
